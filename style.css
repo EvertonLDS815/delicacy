@@ -114,7 +114,7 @@ header {
     min-height: 640px;
     display: flex;
     align-items: center;
-    background: url(./assets/imgs/background.jpg);
+    background: #ddd;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
